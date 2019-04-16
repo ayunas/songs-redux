@@ -1,5 +1,6 @@
 import React from 'react';
 
+//we're not using a Class component because we're using Redux for state.
 
 const App = () => {
 
